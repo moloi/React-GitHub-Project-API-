@@ -1,6 +1,6 @@
 # React + GitHub API project
 
-In this project, we're going to take a small, existing React application and add new features to it.
+In this project, we're going to build React Web Application which Uses API to Collect information of users on Github and Display Results.
 
 Here's what the application will look like once you are done:
 
