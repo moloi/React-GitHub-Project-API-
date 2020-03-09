@@ -87,7 +87,7 @@ If you click on followers, notice that the URL of the page changes to `/users/:u
 ## Implementing the Followers page
 When clicking on the followers link in the UI, notice that the URL changes to `/user/:username/followers`. Currently this results in a "not found" route. Let's fix this.
 
-![followers page](http://i.imgur.com/IwkBOUc.png)
+![followers page](https://github.com/moloi/React-GitHub-Project-API-/blob/master/Display%20Results.PNG)
 
 ### Step 1: adding the route
 In `index.js`, you currently have your user route setup like this:
