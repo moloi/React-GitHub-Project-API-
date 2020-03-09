@@ -4,7 +4,7 @@ In this project, we're going to take a small, existing React application and add
 
 Here's what the application will look like once you are done:
 
-![react github project](http://i.imgur.com/cSckwUo.gif)
+![react github project](https://github.com/moloi/React-GitHub-Project-API-/blob/master/Display%20Page.PNG)
 
 The code you are given for the project implements the search form and the loading of basic user info. You'll have to do all the rest.
 
